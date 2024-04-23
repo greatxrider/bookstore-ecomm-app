@@ -11,7 +11,7 @@ ISBNDB API (7.50 USD / month)
 Books API by Google:
 
 Reference: https://developers.google.com/books/docs/overview
-API-key: AIzaSyBmiqXsTPBQWoTahP4UUv7xln7D6zVkzqY
+API-key:
 
 UI KIT: 
 
