@@ -17,8 +17,6 @@ https://developer.nytimes.com/docs/books-product/1/routes/reviews.json/get
 
 API-key:
 
-AIzaSyAjVF1C7YGSaTrHOvUvqtvHNFDFRYLrIeQ
-
 UI KIT: 
 
 1. Choose UI Kit from reference.
